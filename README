@@ -1,0 +1,8 @@
+Ratchet Deadlocked HD NetCheat PS3 Plugin
+A GUI that implements C# to create an interactable Mod Menu in game.
+
+
+A video explaining the mod menu I made: https://www.youtube.com/watch?v=S2vRyLeHMn4
+Actual mod menu is available in the root directory of this (test menu.mettle).
+
+Both the CodeCompiler.dll and the DLModMenu.dll need to be put in the Plugins folder of NetCheat PS3.
